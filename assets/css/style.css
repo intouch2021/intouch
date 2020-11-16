@@ -1,0 +1,31 @@
+
+.outline{
+	-webkit-text-stroke: 1px black;
+}
+
+.logo{
+	image-size: 100px;
+	margin-right: 100px;
+	align-image: justify;
+
+}
+
+section.TB1 {
+		display:flex;
+		justify-content: space-around;
+	}
+section.TB1 div {
+	flex:1;
+	padding:0 20px;
+}
+
+#nav !important{
+	background-opacity:0.5;
+	background-image:url(images/data2.jpeg);
+		 background-repeat: no-repeat;
+		 background-size:cover;
+		 background-height: auto;
+		 background-width:auto;
+
+
+}
