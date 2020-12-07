@@ -122,7 +122,7 @@ input, select, textarea {
 
 	body {
 		background-repeat: no-repeat;
-	  background-image: radial-gradient( white,white,cornflowerblue,blue);
+	  background-image: radial-gradient( white,lightblue,cornflowerblue,blue);
 /*	background-image:url(../../images/data2.jpeg); */
 
 	}
