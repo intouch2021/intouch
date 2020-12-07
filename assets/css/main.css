@@ -121,12 +121,9 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: rgbs(0,0,0,0.7)
 		background-repeat: no-repeat;
-		background-size:cover;
-	/*	background-image:url(../../images/data2.jpeg); */
-	background-image: radial-gradient(white,cornflowerblue,blue);
-
+	  background-image: radial-gradient( white,white,cornflowerblue,blue);
+/*	background-image:url(../../images/data2.jpeg); */
 
 	}
 
