@@ -59,7 +59,7 @@ body {
 }
 
 mark {
-	background-color: transparent;
+	background-color: ;
 	color: inherit;
 }
 
@@ -124,8 +124,9 @@ input, select, textarea {
 
 	body {
 		background-repeat: no-repeat;
-	  background-image: radial-gradient( white,lightblue,cornflowerblue,blue);
-/*	background-image:url(../../images/data2.jpeg); */
+		background-size: cover;
+	  /*background-image: radial-gradient( white,lightblue,cornflowerblue,blue);*/
+	background-image:url(../../images/techno.jpg);
 
 	}
 
@@ -3298,7 +3299,7 @@ section.TB div {
 				margin: 0 0.35em;
 				padding: 0;
 				vertical-align: middle;
-				
+
 			}
 
 				#nav ul li a {
