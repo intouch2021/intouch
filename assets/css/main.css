@@ -3243,6 +3243,7 @@ section.TB div {
 		cursor: default;
 		text-align: center;
 		height: 100px;
+		width: 200px;
 
 	}
 
@@ -3283,6 +3284,7 @@ section.TB div {
 			margin: 0;
 			padding: 0;
 			list-style: none;
+
 		}
 
 			#nav ul li {
@@ -3290,7 +3292,7 @@ section.TB div {
 				-webkit-transition: margin 0.2s ease;
 				-ms-transition: margin 0.2s ease;
 				transition: margin 0.2s ease;
-				display: inline-block;
+				display: block;
 				margin: 0 0.35em;
 				padding: 0;
 				vertical-align: middle;
