@@ -33,6 +33,8 @@ body {
 	line-height: 1;
 }
 
+
+
 ol, ul {
 	list-style: none;
 }
@@ -3241,9 +3243,9 @@ section.TB div {
 		border-top-left-radius: 0.25em;
 		border-top-right-radius: 0.25em;
 		cursor: default;
-		text-align: center;
+		text-align:center;
 		height: 100px;
-		width: 200px;
+
 
 	}
 
@@ -3292,10 +3294,11 @@ section.TB div {
 				-webkit-transition: margin 0.2s ease;
 				-ms-transition: margin 0.2s ease;
 				transition: margin 0.2s ease;
-				display: block;
+				display: inline-block;
 				margin: 0 0.35em;
 				padding: 0;
 				vertical-align: middle;
+				
 			}
 
 				#nav ul li a {
