@@ -3103,9 +3103,10 @@ section.TB div {
 			letter-spacing: -0.025em;
 		}
 
-	/*	#header.alt {
-			padding: 7em 5em 4em 5em ;
-		} */
+		#header.alt {
+			/*padding: 7em 5em 4em 5em ;*/
+			text-align: center;
+		}
 
 			#header.alt h1 {
 				font-size: 3.25em;
@@ -3164,7 +3165,7 @@ section.TB div {
 
 				#header.alt {
 					padding: 5em 3em 2em 3em ;
-					text-align: center;
+
 				}
 
 		}
