@@ -124,7 +124,7 @@ input, select, textarea {
 
 	body {
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size:400%;
 	  /*background-image: radial-gradient( white,lightblue,cornflowerblue,blue);*/
 	background-image:url(../../images/techno.jpg);
 
