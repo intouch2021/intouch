@@ -3249,7 +3249,7 @@ section.TB div {
 		cursor: default;
 		text-align:center;
 		height: 60px;
-		width:1200px;
+		width:100%;
 
 
 	}
@@ -3793,15 +3793,16 @@ section.TB div {
 /* Wrapper */
 
 	#wrapper {
-		width: 64em;
+		width:64em;
 		max-width: calc(100% - 4em);
 		margin: 0 auto;
-	}
+		text-align: center;
+	}*/
 
 		@media screen and (max-width: 480px) {
 
 			#wrapper {
-				max-width: calc(100% - 2em);
+			max-width: calc(100% - 2em);
 			}
 
 		}
