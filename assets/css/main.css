@@ -3104,7 +3104,7 @@ section.TB div {
 		}
 
 		#header.alt {
-			/*padding: 7em 5em 4em 5em ;*/
+			padding: 5em 5em 1em 5em ;
 			text-align: center;
 		}
 
@@ -3246,9 +3246,9 @@ section.TB div {
 
 		border-top-left-radius: 0.25em;
 		border-top-right-radius: 0.25em;
-		cursor: default;
+		cursor: default;``
 		text-align:center;
-	
+
 		width:100%;
 
 
