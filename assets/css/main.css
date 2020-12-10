@@ -3241,7 +3241,7 @@ section.TB div {
 		color: #636363;*/
 		position: absolute;
 		width: 64em;
-		max-width: calc(100% - 4em);
+		max-width: /*calc(100% - 4em)*/ 1440px;
 		padding: 1em;
 
 		border-top-left-radius: 0.25em;
